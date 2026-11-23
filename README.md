@@ -2,7 +2,7 @@
 
 # Hi there, I'm Romário 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Passionate+Software+Developer;Mobile+%26+Backend+Enthusiast;Exploring+Swift%2C+Flutter+%26+KMP;Gamer+in+my+free+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=Passionate+Software+Developer;Android+%26+Mobile+App+Developer;Exploring+Swift%2C+Flutter+%26+KMP;Gamer+in+my+free+time)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/romariobs/" target="_blank">
@@ -20,10 +20,10 @@
 ### 🚀 About Me
 
 - 💻 **Passionate about software development** and creating impactful, high-performance applications.
-- 📱 **Currently exploring & mastering:**
-  - **Swift** (iOS Native)
-  - **Flutter** (Cross-platform)
-  - **Kotlin Multiplatform (KMP)**
+- 📱 **Mobile Development Focus:**
+  - **Android Development** (Kotlin, Android SDK, Jetpack Compose)
+  - **iOS Native** (Swift)
+  - **Cross-Platform / Multiplatform** (Flutter, Kotlin Multiplatform - KMP)
 - ⚙️ **Expanding knowledge in Backend Development**, API architectures, and clean code principles.
 - 🎮 In my spare time, you'll find me **gaming** and diving into new tech trends.
 
@@ -33,10 +33,12 @@
 
 #### 📱 Mobile Development
 <p>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="KMP" />
 </p>
 
